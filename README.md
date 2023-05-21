@@ -1,5 +1,4 @@
 # Garment_Factory_Management
-Please go under edit and edit this file as needed for your project
 
 # Project Name - ITP2022_S2_B03_G36
 # Batch - Y2S2 3.2
@@ -44,6 +43,4 @@ takes a very small space to store to details, financial Side can now be handled 
 outdated cash or cheques method.
 
 #### Technologies used - MERN Stack Technology
-
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
